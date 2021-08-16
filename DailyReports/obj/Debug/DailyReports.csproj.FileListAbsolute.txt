@@ -5,3 +5,10 @@ C:\Users\tenchamp31\Desktop\C#\DailyReports\obj\Debug\DailyReports.csprojAssembl
 C:\Users\tenchamp31\Desktop\C#\DailyReports\obj\Debug\DailyReports.csproj.CoreCompileInputs.cache
 C:\Users\tenchamp31\Desktop\C#\DailyReports\obj\Debug\DailyReports.exe
 C:\Users\tenchamp31\Desktop\C#\DailyReports\obj\Debug\DailyReports.pdb
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\bin\Debug\DailyReports.exe.config
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\bin\Debug\DailyReports.exe
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\bin\Debug\DailyReports.pdb
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\obj\Debug\DailyReports.csprojAssemblyReference.cache
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\obj\Debug\DailyReports.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\obj\Debug\DailyReports.exe
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\DailyReports\obj\Debug\DailyReports.pdb

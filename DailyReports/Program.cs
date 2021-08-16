@@ -22,13 +22,15 @@ namespace VariablesandDataTypes
 
             Console.WriteLine("What page number are you on?"); //Asking for page number
             string pageNumber = Console.ReadLine();
-            Console.WriteLine("Page Number:" + pageNumber);
+            int num1 = Int32.Parse(pageNumber);
+            int newpage = num1;
+            Console.WriteLine("Your page number is " + newpage);
             Console.ReadLine();
 
             Console.WriteLine("Do you need help with anything? Please answer with True or False."); //Asking for true or false
-            string yourAnswer = Console.ReadLine();
-            Console.WriteLine(yourAnswer);
-            Console.ReadLine();
+            string yourHelp = Console.ReadLine();
+            bool Help = bool.Parse(yourHelp);
+            Console.WriteLine(Help);
 
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics."); //Any help needed
             string yourExperiences = Console.ReadLine();
@@ -42,7 +44,9 @@ namespace VariablesandDataTypes
 
             Console.WriteLine("How many Hours did you study today?"); //Asking for hours studied
             string yourHours = Console.ReadLine();
-            Console.WriteLine("I studied for " + yourHours);
+            int num2 = Int32.Parse(yourHours);
+            int newhours = num2;
+            Console.WriteLine("You Stuided for + " + num2 + " hours");
             Console.ReadLine();
 
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day"); //Final statement
