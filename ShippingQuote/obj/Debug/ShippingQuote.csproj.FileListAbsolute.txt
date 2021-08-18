@@ -1,0 +1,7 @@
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\obj\Debug\ShippingQuote.csprojAssemblyReference.cache
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\tenchamp31\Desktop\Projects\ShippingQuote\obj\Debug\ShippingQuote.pdb
