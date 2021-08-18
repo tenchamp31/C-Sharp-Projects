@@ -7,7 +7,7 @@ namespace ShippingQuote
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Package Express");
+            Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
             Console.WriteLine("What is the package weight?"); //Asking for weight
             string weight = Console.ReadLine();
             int num1 = Int32.Parse(weight);
