@@ -1,0 +1,7 @@
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\bin\Debug\Insurace Approval.exe.config
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\bin\Debug\Insurace Approval.exe
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\bin\Debug\Insurace Approval.pdb
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\obj\Debug\Insurace Approval.csprojAssemblyReference.cache
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\obj\Debug\Insurace Approval.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\obj\Debug\Insurace Approval.exe
+C:\Users\tenchamp31\Desktop\Projects\Insurace Approval\obj\Debug\Insurace Approval.pdb
