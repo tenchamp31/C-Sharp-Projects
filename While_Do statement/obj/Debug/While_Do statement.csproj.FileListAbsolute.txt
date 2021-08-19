@@ -1,0 +1,7 @@
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\bin\Debug\While_Do statement.exe.config
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\bin\Debug\While_Do statement.exe
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\bin\Debug\While_Do statement.pdb
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\obj\Debug\While_Do statement.csprojAssemblyReference.cache
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\obj\Debug\While_Do statement.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\obj\Debug\While_Do statement.exe
+C:\Users\tenchamp31\Desktop\Projects\While_Do statement\obj\Debug\While_Do statement.pdb
