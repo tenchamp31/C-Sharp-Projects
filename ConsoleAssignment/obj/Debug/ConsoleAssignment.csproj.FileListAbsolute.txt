@@ -1,0 +1,7 @@
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.csproj.AssemblyReference.cache
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
