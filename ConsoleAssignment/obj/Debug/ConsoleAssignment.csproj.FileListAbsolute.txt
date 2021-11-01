@@ -5,3 +5,10 @@ C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignme
 C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.csproj.CoreCompileInputs.cache
 C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
 C:\Users\tenchamp31\Desktop\Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.csproj.AssemblyReference.cache
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb

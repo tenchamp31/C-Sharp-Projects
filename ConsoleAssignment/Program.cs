@@ -9,96 +9,96 @@ namespace ConsoleAssignment
     class Program
     {           
         static void Main(string[] args)
-        {           //Assignment 1
-            //string[] Cars = new string[] { " Audi ", " Ford ", " BMW ", " Volvo " };
-            //Console.WriteLine(" Are Cars the best or worst? "); //asking for user input
-            //string answer = Console.ReadLine();
+        {           //assignment 1
+            string[] Cars = new string[] { " Audi ", " Ford ", " BMW ", " Volvo " };
+        Console.WriteLine(" Are Cars the best or worst? "); //asking for user input
+        string answer = Console.ReadLine();
 
-            //for (int i = 0; i < Cars.Length; i++)
-            //{
-            //    Cars[i] += answer;
+        for (int i = 0; i<Cars.Length; i++)
+        {
+            Cars[i] += answer;
 
-            //}
-            //for (int i =0; i< Cars.Length; i++)
-            //{
-            //    Console.WriteLine(Cars[i]);
-            //}
+        }
+        for (int i =0; i<Cars.Length; i++)
+        {
+            Console.WriteLine(Cars[i]);
+        }
 
-            //Console.ReadLine();
-               
-
-
-            ////Assignment 2 infinite loop and fixing it
-            //int games = 0;
-            //while (true)
-            //{
-            //    Console.WriteLine("Games played = {0}", games, games++); //Added games++ to fix the infinite loop
-
-            //    if (games >75)
-            //        {
-            //        break;
-            //    }
-            //}
-            //        //Assignment 3
-            //int[] TargetPratice = { 94, 56, 87, 23, 99, 34 };
-            //for (int a = 0; a < TargetPratice.Length; a++)
-            //{
-            //    if (TargetPratice[a] > 45)   //Making the > comparsion
-            //    {
-            //        Console.WriteLine("Passing Target Score is: " + TargetPratice[a]);
-            //    }
-            //}
-            //Console.ReadLine();
-
-            //int[] TicketsSold = { 45, 12, 78, 98, 15, 24, 45, 82 };
-            //for (int t = 0; t < TicketsSold.Length; t++)
-            //{
-            //    if (TicketsSold[t] <= 100)
-            //    {
-            //        Console.WriteLine("The tickets sold under 100 are " + TicketsSold[t]);
-            //    }
-
-            //}
-
-            //Console.ReadLine();
-
-        
-
-             //List<string> Students = new List<string>() { "Bob", "Cindy", "Ramesh", "John", "Joe" };
-             //               for (int i = 0; i<Students.Count; i++)
-             //           {
-             //           Console.WriteLine(Students[i]);
+            Console.ReadLine();
 
 
-             //       }
-             //   Console.WriteLine("Please choose the name of the student to find their student index number");
-             //       string num1 = Console.ReadLine();
+
+            //////////    ////Assignment 2 infinite loop and fixing it
+            int games = 0;
+            while (true)
+            {
+                Console.WriteLine("games played = {0}", games, games++); //added games++ to fix the infinite loop
+
+                if (games > 75)
+                {
+                    break;
+                }
+            }
+            //assignment 3
+            int[] targetpratice = { 94, 56, 87, 23, 99, 34 };
+            for (int a = 0; a < targetpratice.Length; a++)
+            {
+                if (targetpratice[a] > 45)   //making the > comparsion
+                {
+                    Console.WriteLine("passing target score is: " + targetpratice[a]);
+                }
+            }
+            Console.ReadLine();
+
+            int[] TicketsSold = { 45, 12, 78, 98, 15, 24, 45, 82 };
+            for (int t = 0; t < TicketsSold.Length; t++)
+            {
+                if (TicketsSold[t] <= 100)
+                {
+                    Console.WriteLine("The tickets sold under 100 are " + TicketsSold[t]);
+                }
+
+            }
+
+            Console.ReadLine();
 
 
-             //   bool StudentsPresent = false;
-             //       for (int i = 0; i<Students.Count; i++)
-             //       {
+            //{Assignment 4
+            List<string> Students = new List<string>() { "Bob", "Cindy", "Ramesh", "John", "Joe" };
+            for (int i = 0; i < Students.Count; i++)
+            {
+                Console.WriteLine(Students[i]); //printing out student names
 
 
-             //           if (Students[i] == (num1))
-
-             //           {
-             //               Console.WriteLine(num1 + " Student ID is " + i);
-             //               StudentsPresent = true;
-             //               break;
-             //           }
+            }
+            Console.WriteLine("Please choose the name of the student to find their student index number");
+            string num1 = Console.ReadLine();
 
 
-             //       }
-
-             //       if (StudentsPresent == false)
-             //       {
-             //   Console.WriteLine("No Student Found");
-
-             //       }
+            bool StudentsPresent = false; //creating bool statement fo find index number
+            for (int i = 0; i < Students.Count; i++)
+            {
 
 
-                List<string> Books = new List<string>() { "StarWars", "Harry Potter", "Lord of the Rings", "StarWars" };
+                if (Students[i] == (num1))
+
+                {
+                    Console.WriteLine(num1 + " Student ID is " + i);
+                    StudentsPresent = true;
+                    break;
+                }
+
+
+            }
+
+            if (StudentsPresent == false)
+            {
+                Console.WriteLine("No Student Found");
+
+            }
+
+            // Assignment 5
+            List<string> Books = new List<string>() { "StarWars", "Harry Potter", "Lord of the Rings", "StarWars" };
                 for (int b = 0; b < Books.Count; b++)
                 {
                     Console.WriteLine(Books[b]);
@@ -131,12 +131,23 @@ namespace ConsoleAssignment
                 Console.ReadLine();
 
 
-            //List<string> Sports = new List<string>() { "Tennis", "Baseball", "Basketball", "Soccer", "Baseball" };
-            //foreach (string sport in Sports)
-            //{
-            //    Console.WriteLine(sport);
-            //}
-            
+            // Assignment 6
+            List<string> Colors = new List<string>() { " Blue ", " Red ", " White ", " Black ", " Orange ", " Red " };
+
+            IEnumerable<string> copy = Colors.GroupBy(x => x).SelectMany(v => v.Skip(1));
+
+            foreach (string color in Colors)
+            {
+                Console.WriteLine(color);
+                if (copy.Contains(color))
+                {
+                    Console.WriteLine(" Colors: " + color + " has already been shown");
+                }
+            }
+
+            Console.ReadLine();
+
+
         }
     }    
 }
