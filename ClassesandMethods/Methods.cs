@@ -11,18 +11,19 @@ namespace methods
         public int Multiply(int data)
         {
             data = data * 6; //adding the input
-            return Add(data);
+            return (data);
         }
 
         public int Add(int data)
         {
             data = data + 10; //subtracting the input after addition
-            return Subtract(data);
+            return (data);
         }
 
         public int Subtract(int data)
         {
-            return data - 5; //multiplying input after addition and subtraction
+            data = data - 5;
+             return (data);
         }
     }
 }

@@ -18,9 +18,13 @@ namespace Test
 
             var operatorObject = new methods.ArthematicOperations();
             var answer = operatorObject.Multiply(data);
+            var answer1 = operatorObject.Add(data);
+            var answer2 = operatorObject.Subtract(data);
 
 
-            Console.WriteLine(answer);
+            Console.WriteLine(line + " multiplyed by 6 = " + answer);
+            Console.WriteLine(line + " Added to 10 = " + answer1);
+            Console.WriteLine(line + " Subtracted by 5 = " + answer2);
 
             Console.ReadLine();
         }
