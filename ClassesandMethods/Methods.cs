@@ -10,17 +10,17 @@ namespace methods
     {
         public int Multiply(int data)
         {
-            data = data * 6; //adding the input
+            data = data * 6; //Multiplying input
             return (data);
         }
 
         public int Add(int data)
         {
-            data = data + 10; //subtracting the input after addition
+            data = data + 10; //Adding input
             return (data);
         }
 
-        public int Subtract(int data)
+        public int Subtract(int data) //Subtracting input
         {
             data = data - 5;
              return (data);
