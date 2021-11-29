@@ -17,7 +17,7 @@ namespace Test
             int data = Int32.Parse(line); //converting string to int data type
 
             var operatorObject = new methods.ArthematicOperations();
-            var answer = operatorObject.Add(data);
+            var answer = operatorObject.Multiply(data);
 
 
             Console.WriteLine(answer);

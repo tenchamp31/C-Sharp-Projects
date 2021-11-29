@@ -5,3 +5,10 @@ C:\Users\tenchamp31\Desktop\C#\ClassesandMethods\bin\Debug\ClassesandMethods.exe
 C:\Users\tenchamp31\Desktop\C#\ClassesandMethods\bin\Debug\ClassesandMethods.pdb
 C:\Users\tenchamp31\Desktop\C#\ClassesandMethods\obj\Debug\ClassesandMethods.exe
 C:\Users\tenchamp31\Desktop\C#\ClassesandMethods\obj\Debug\ClassesandMethods.pdb
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\bin\Debug\ClassesandMethods.exe.config
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\bin\Debug\ClassesandMethods.exe
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\bin\Debug\ClassesandMethods.pdb
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\obj\Debug\ClassesandMethods.csproj.AssemblyReference.cache
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\obj\Debug\ClassesandMethods.csproj.CoreCompileInputs.cache
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\obj\Debug\ClassesandMethods.exe
+C:\Users\tenchamp31\Documents\GitHub\C-Sharp Projects\ClassesandMethods\obj\Debug\ClassesandMethods.pdb
