@@ -24,17 +24,17 @@ namespace Test
 
             Console.WriteLine("Please enter decimal");
             string line2 = Console.ReadLine();
-            float data1 = float.Parse(line2);
+            float data1 = float.Parse(line2); //getting float data type
 
             Console.WriteLine("Please enter favorite number");
             string line3 = Console.ReadLine();
-            long data2 = Int32.Parse(line3);
+            long data2 = Int32.Parse(line3); //long data type
 
 
 
 
 
-            var operatorObject = new methods.ArthematicOperations();
+            var operatorObject = new methods.ArthematicOperations(); //refrencing thread
             var answer = operatorObject.Add(data);
             var answer1 = operatorObject.Add(data1);
             var answer2 = operatorObject.Add(data2);
