@@ -24,11 +24,12 @@ namespace Test
 
             Console.WriteLine("Please enter decimal");
             string line2 = Console.ReadLine();
-            float data1 = float.Parse(line2); //getting float data type
+            decimal data1 = Decimal.Parse(line2); //getting float data type
 
             Console.WriteLine("Please enter favorite number");
             string line3 = Console.ReadLine();
-            long data2 = Int32.Parse(line3); //long data type
+            float data2 = Int32.Parse(line3);
+            
 
 
 
@@ -42,7 +43,7 @@ namespace Test
 
 
             Console.WriteLine(line + " Multiplyed by 12 = " + answer);
-            Console.WriteLine(line2 + " divided by 3 = " + answer1.ToString("0"));
+            Console.WriteLine(line2 + " divided by 3 = " + answer1);
             Console.WriteLine(line3 + " added by 5 is " + answer2);
             Console.ReadLine();
         }

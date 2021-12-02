@@ -15,16 +15,16 @@ namespace methods
 
         }
 
-        public float Add(float data1)
+        public decimal Add(Decimal data1)
         {
             data1 = data1 / 3; //dividing operation
-            return data1;
+            return Decimal.ToInt32(data1);
         }
 
-        public long Add(long data2) //adding operation
+        public float Add(float data2) //adding operation
         {
             data2 = data2 + 5;
-            return data2;
+            return Convert.ToInt32(data2);
 
 
         }
