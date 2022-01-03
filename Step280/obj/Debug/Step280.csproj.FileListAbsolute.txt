@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\Step280\bin\Debug\Step280.exe.config
+C:\Users\YG\Desktop\C#\Step280\bin\Debug\Step280.exe
+C:\Users\YG\Desktop\C#\Step280\bin\Debug\Step280.pdb
+C:\Users\YG\Desktop\C#\Step280\obj\Debug\Step280.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\Step280\obj\Debug\Step280.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\Step280\obj\Debug\Step280.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\Step280\obj\Debug\Step280.exe
+C:\Users\YG\Desktop\C#\Step280\obj\Debug\Step280.pdb
