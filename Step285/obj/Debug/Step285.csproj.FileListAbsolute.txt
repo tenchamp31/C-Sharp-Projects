@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\Step285\bin\Debug\Step285.exe.config
+C:\Users\YG\Desktop\C#\Step285\bin\Debug\Step285.exe
+C:\Users\YG\Desktop\C#\Step285\bin\Debug\Step285.pdb
+C:\Users\YG\Desktop\C#\Step285\obj\Debug\Step285.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\Step285\obj\Debug\Step285.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\Step285\obj\Debug\Step285.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\Step285\obj\Debug\Step285.exe
+C:\Users\YG\Desktop\C#\Step285\obj\Debug\Step285.pdb
