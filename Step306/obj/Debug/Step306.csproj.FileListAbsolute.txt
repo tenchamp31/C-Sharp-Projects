@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\Step306\bin\Debug\Step306.exe.config
+C:\Users\YG\Desktop\C#\Step306\bin\Debug\Step306.exe
+C:\Users\YG\Desktop\C#\Step306\bin\Debug\Step306.pdb
+C:\Users\YG\Desktop\C#\Step306\obj\Debug\Step306.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\Step306\obj\Debug\Step306.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\Step306\obj\Debug\Step306.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\Step306\obj\Debug\Step306.exe
+C:\Users\YG\Desktop\C#\Step306\obj\Debug\Step306.pdb
