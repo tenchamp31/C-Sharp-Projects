@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\Operator Overloading\bin\Debug\Operator Overloading.exe.config
+C:\Users\YG\Desktop\C#\Operator Overloading\bin\Debug\Operator Overloading.exe
+C:\Users\YG\Desktop\C#\Operator Overloading\bin\Debug\Operator Overloading.pdb
+C:\Users\YG\Desktop\C#\Operator Overloading\obj\Debug\Operator Overloading.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\Operator Overloading\obj\Debug\Operator Overloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\Operator Overloading\obj\Debug\Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\Operator Overloading\obj\Debug\Operator Overloading.exe
+C:\Users\YG\Desktop\C#\Operator Overloading\obj\Debug\Operator Overloading.pdb
