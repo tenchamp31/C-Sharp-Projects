@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\Enums\bin\Debug\Enums.exe.config
+C:\Users\YG\Desktop\C#\Enums\bin\Debug\Enums.exe
+C:\Users\YG\Desktop\C#\Enums\bin\Debug\Enums.pdb
+C:\Users\YG\Desktop\C#\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\Enums\obj\Debug\Enums.exe
+C:\Users\YG\Desktop\C#\Enums\obj\Debug\Enums.pdb
