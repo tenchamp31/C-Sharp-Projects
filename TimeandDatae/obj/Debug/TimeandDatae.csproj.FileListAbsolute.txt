@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\TimeandDatae\bin\Debug\TimeandDatae.exe.config
+C:\Users\YG\Desktop\C#\TimeandDatae\bin\Debug\TimeandDatae.exe
+C:\Users\YG\Desktop\C#\TimeandDatae\bin\Debug\TimeandDatae.pdb
+C:\Users\YG\Desktop\C#\TimeandDatae\obj\Debug\TimeandDatae.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\TimeandDatae\obj\Debug\TimeandDatae.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\TimeandDatae\obj\Debug\TimeandDatae.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\TimeandDatae\obj\Debug\TimeandDatae.exe
+C:\Users\YG\Desktop\C#\TimeandDatae\obj\Debug\TimeandDatae.pdb
