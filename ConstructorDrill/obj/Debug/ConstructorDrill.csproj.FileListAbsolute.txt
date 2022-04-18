@@ -1,0 +1,8 @@
+C:\Users\YG\Desktop\C#\ConstructorDrill\bin\Debug\ConstructorDrill.exe.config
+C:\Users\YG\Desktop\C#\ConstructorDrill\bin\Debug\ConstructorDrill.exe
+C:\Users\YG\Desktop\C#\ConstructorDrill\bin\Debug\ConstructorDrill.pdb
+C:\Users\YG\Desktop\C#\ConstructorDrill\obj\Debug\ConstructorDrill.csproj.AssemblyReference.cache
+C:\Users\YG\Desktop\C#\ConstructorDrill\obj\Debug\ConstructorDrill.csproj.SuggestedBindingRedirects.cache
+C:\Users\YG\Desktop\C#\ConstructorDrill\obj\Debug\ConstructorDrill.csproj.CoreCompileInputs.cache
+C:\Users\YG\Desktop\C#\ConstructorDrill\obj\Debug\ConstructorDrill.exe
+C:\Users\YG\Desktop\C#\ConstructorDrill\obj\Debug\ConstructorDrill.pdb
