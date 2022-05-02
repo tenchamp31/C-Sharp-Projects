@@ -145,7 +145,7 @@ namespace CarInsurance.Controllers
 
             else
             {
-                insuree.Quote = +25; //otherwise add 25 if over
+                insuree.Quote += 25; //otherwise add 25 if over
             }
 
             if(insuree.CarYear < 2000)
